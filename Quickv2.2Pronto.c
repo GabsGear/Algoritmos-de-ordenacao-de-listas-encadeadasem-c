@@ -2,7 +2,7 @@
 Gabriel Velho Ghellere 14202480
 Luan Lorenzo dos Santos Borges 15104328
 Pedro Dias Mendonça 13104556
-ALGORITMO DE ORDENAÇÃO POR SELECAO data de entrega 25/06/2016**/
+ALGORITMO DE ORDENAÇÃO POR QuickSort data de entrega 25/06/2016**/
 
 #include <stdio.h>
 #include <stdlib.h>
